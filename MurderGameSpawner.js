@@ -1,6 +1,7 @@
 var localRot;
 //var LOCATION_ROOT_URL = "http://192.168.2.200/Murdergame/";
-var LOCATION_ROOT_URL = Script.resolvePath(".");
+var LOCATION_ROOT_URL = "https://echads.github.io/Murdergame/";
+//var LOCATION_ROOT_URL = Script.resolvePath(".");
 print (LOCATION_ROOT_URL);
 var SPAWN_CUBE_AMOUNT = 10; //not less than serverscript max players
 var ITEM_CUBE_AMOUNT = 21; //not less han serverscript clues + knives
