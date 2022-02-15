@@ -1,6 +1,7 @@
 (function () {  
     //var LOCATION_ROOT_URL ="http://192.168.2.200/Murdergame/"; 
-    var LOCATION_ROOT_URL = Script.resolvePath(".");       
+    var LOCATION_ROOT_URL = "https://echads.github.io/Murdergame/";
+    //var LOCATION_ROOT_URL = Script.resolvePath(".");       
     var sound = SoundCache.getSound(LOCATION_ROOT_URL + "140312__project-trident__small-knife-drop.mp3");  
     var findMurderConsoleID;
     var myID;
