@@ -2,8 +2,9 @@
     var UPDATE_MS = 20;
     var reset = false;
     var RESET_TIME = 1000;     
-    //var LOCATION_ROOT_URL ="http://192.168.2.200/Murdergame/";
-    var LOCATION_ROOT_URL = Script.resolvePath(".");      
+    //var LOCATION_ROOT_URL ="http://192.168.2.200/Murdergame/";https://echads.github.io/Murdergame/
+    var LOCATION_ROOT_URL ="https://echads.github.io/Murdergame/";
+    //var LOCATION_ROOT_URL = Script.resolvePath(".");      
     var myID;  
     var myName;      
     var shootSound;
