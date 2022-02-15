@@ -19,7 +19,8 @@
     var startPlay = false;
     var isGameFinished = false;    
     //var LOCATION_ROOT_URL = "http://192.168.2.200/Murdergame/";
-    var LOCATION_ROOT_URL = Script.resolvePath(".");   
+    var LOCATION_ROOT_URL = "https://echads.github.io/Murdergame/";
+    //var LOCATION_ROOT_URL = Script.resolvePath(".");   
     var timer;
     var myID;      
     var myPosition;   
